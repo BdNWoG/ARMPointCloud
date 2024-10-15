@@ -1,0 +1,13 @@
+# Ignore build and development files
+build/
+devel/
+logs/
+.catkin_tools/
+
+# Ignore temporary files
+*.pyc
+__pycache__/
+
+# Ignore Python virtual environments
+venv/
+
